@@ -283,6 +283,16 @@ input, select, textarea {
 		}
 
 /* Row */
+	.skills-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: center; /* Adjust this to change the alignment of the icons */
+    align-items: center; /* Adjust this to change the alignment of the icons */
+	}
+
+	.skill-box {
+		margin: 50px; /* Adjust this to control the spacing between icons */
+	}
 
 	.row {
 		display: flex;
@@ -1921,7 +1931,7 @@ input, select, textarea {
 			padding: 3em 2em 3.5em 2em;
 		}
 
-			.box.style1 h3 {
+		.box.style1 h3 {
 				margin-bottom: 0.5em;
 			}
 
