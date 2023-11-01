@@ -301,7 +301,7 @@ img {
 
 }
 .img-side {
-	position: relative;
+	position: absolute;
 }
 
 .img-side__main-img {
