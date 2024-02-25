@@ -2099,6 +2099,8 @@ h3 {
 		.wrapper.style2 {
 			background-color: #fafafa;
 			text-shadow: 1px 1px 0px #fff;
+			margin: 0 auto; /* This centers the element horizontally */
+			text-align: center; /* This centers the text inside the element */
 		}
 
 		.wrapper.style3 {
